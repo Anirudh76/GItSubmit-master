@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         
         
         print("This is Anirudh")
+        
+        print("Anirudh")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
